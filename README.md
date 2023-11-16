@@ -7,7 +7,7 @@ C program for entering Students marks, storing in a structure and displaying the
 
 Install MinGW from, 
 
-```bash
+```http
   https://sourceforge.net/projects/mingw/
 
 ```
